@@ -1,0 +1,110 @@
+/* =======================================================
+BACKGROUND
+======================================================= */
+
+.stApp{
+    background-color:#0f1117;
+}
+
+/* =======================================================
+HEADINGS
+======================================================= */
+
+h1{
+    color:#1DB954 !important;
+    font-weight:800;
+}
+
+h2{
+    color:white !important;
+}
+
+h3{
+    color:white !important;
+}
+
+p{
+    color:#dddddd;
+}
+
+/* =======================================================
+METRIC CARDS
+======================================================= */
+
+[data-testid="stMetric"]{
+
+    background:rgba(255,255,255,.06);
+
+    border-radius:18px;
+
+    padding:22px;
+
+    border:1px solid rgba(255,255,255,.08);
+
+    transition:.25s;
+
+    backdrop-filter:blur(10px);
+
+}
+
+[data-testid="stMetric"]:hover{
+
+    transform:translateY(-5px);
+
+    border:1px solid #1DB954;
+
+}
+
+/* =======================================================
+DATAFRAME
+======================================================= */
+
+[data-testid="stDataFrame"]{
+
+    border-radius:18px;
+
+}
+
+/* =======================================================
+SIDEBAR
+======================================================= */
+
+section[data-testid="stSidebar"]{
+
+    background:#161b22;
+
+}
+
+/* =======================================================
+BUTTON
+======================================================= */
+
+.stButton>button{
+
+    background:#1DB954;
+
+    color:white;
+
+    border-radius:12px;
+
+    border:none;
+
+    font-weight:700;
+
+}
+
+.stButton>button:hover{
+
+    background:#18a64b;
+
+}
+
+/* =======================================================
+SELECTBOX
+======================================================= */
+
+.stSelectbox{
+
+    margin-bottom:15px;
+
+}
