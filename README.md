@@ -2,14 +2,6 @@
 
 An interactive Spotify Dashboard built with **Python**, **Streamlit**, **Pandas**, and **Plotly** to explore and visualize Spotify Extended Streaming History.
 
----
-
-## 📸 Preview
-
-> *(Dashboard screenshots will be added here.)*
-
----
-
 ## ✨ Features
 
 - 🎵 Track Analysis
